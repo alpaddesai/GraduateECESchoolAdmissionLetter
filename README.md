@@ -4,7 +4,7 @@
 
 ![image](MSECE.jpg)
 
-![image(MSASICTEST.jpg)
+![image](MSASICTEST.jpg)
 
 ![image](EthicsandExcellence.png)
 
