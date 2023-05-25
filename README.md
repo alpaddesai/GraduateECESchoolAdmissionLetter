@@ -8,4 +8,4 @@
 
 ![image](EthicsandExcellence.png)
 
-![image]()
+![image](USCopyrightCertificate.png)
