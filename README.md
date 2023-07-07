@@ -4,7 +4,7 @@
 
 ![image](MSECE.jpg)
 
-![image](MSECEAdmissionLetter.jpg)
+![image](NEUMSECEAdmissionLetter.jpg)
 
 ![image](MSASICTEST.jpg)
 
