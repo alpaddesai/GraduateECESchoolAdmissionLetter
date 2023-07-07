@@ -4,6 +4,8 @@
 
 ![image](MSECE.jpg)
 
+![image](MSECEAdmissionLetter.jpg)
+
 ![image](MSASICTEST.jpg)
 
 ![image](EthicsandExcellence.png)
